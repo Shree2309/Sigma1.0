@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/drawable/input_bg.xml" value="0.2185" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/drawable/rv_bg.xml" value="0.2185" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/drawable/white_gray_border_bottom.xml" value="0.2185" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/activity_main.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/activity_splash_screen.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/change_username_popup.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/complaint_popup.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_account.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_active.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_closed.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_detail.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_login.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_m_c_x.xml" value="0.33" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_n_s_e.xml" value="0.33" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_p_active.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_p_closed.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_pending.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_portfolio.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_registration.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_send_otp.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_trades.xml" value="0.22" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_verify_otp.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/fragment_watchlist.xml" value="0.33194372068785827" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/popup_layout.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/popup_layout_mcx.xml" value="0.33" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/popup_layout_nse.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/profile_popup.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/single_row.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/single_row_active.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/layout/single_row_p_active.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Bhagy/Sigma/app/src/main/res/menu/bottom_nav.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

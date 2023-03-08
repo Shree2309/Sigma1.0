@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719132464658",
+    "project_id": "sigma-b9592",
+    "storage_bucket": "sigma-b9592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719132464658:android:5dd737e7debf2d2fa6eacb",
+        "android_client_info": {
+          "package_name": "com.shree.sigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719132464658-apadjc30chbsn8bmh4tmu1qd4o1oggt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shree.sigma",
+            "certificate_hash": "e15dcaf7e4b39c559ae45cb98bd0d6c9f474a262"
+          }
+        },
+        {
+          "client_id": "719132464658-ojvf62ccit0u8iiraeavbstrhlvi00ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6oG6kwLyBSwGb8A_5I_S0cseGKyqMOXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719132464658-ojvf62ccit0u8iiraeavbstrhlvi00ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_watchList"
+          android:title="watchlist"
+        android:icon="@drawable/rupeepng"/>
+
+    <item android:id="@+id/nav_trades"
+        android:title="Trades"
+        android:icon="@drawable/tradepng"/>
+
+    <item android:id="@+id/nav_portfolio"
+        android:title="Portfolio"
+        android:icon="@drawable/portfoliopng"/>
+
+    <item android:id="@+id/nav_account"
+        android:title="Account"
+        android:icon="@drawable/accountpng"/>
+
+</menu>
